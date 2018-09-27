@@ -10833,5 +10833,26 @@
     "description": "A Nim wrapper for the Spotify Web API",
     "license": "Apache License 2.0",
     "web": "https://github.com/CORDEA/spotify"
+  },
+  {
+    "name": "proxy",
+    "url": "https://github.com/ba0f3/libproxy.nim",
+    "method": "git",
+    "tags": [
+      "proxy",
+      "protcol",
+      "proxy-protocol",
+      "haproxy",
+      "tcp",
+      "ipv6",
+      "linux",
+      "unix",
+      "hook",
+      "subhook",
+      "nginx"
+    ],
+    "description": "PROXY Protocol enabler for aged programs",
+    "license": "MIT",
+    "web": "https://github.com/ba0f3/libproxy.nim"
   }
 ]
